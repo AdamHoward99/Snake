@@ -1,0 +1,22 @@
+﻿  ConsoleUtils.cpp
+  ExtendedFeatures.cpp
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(179): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(391): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(401): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(411): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(420): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(460): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(489): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(541): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(1239): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(1290): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(1328): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(1340): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(1422): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\adamh\desktop\snake\extendedfeatures.cpp(1427): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RandomUtils.cpp
+  TimeUtils.cpp
+  Generating code
+  All 431 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> C:\Users\adamh\Desktop\Snake\x64\Release\Snake.exe
