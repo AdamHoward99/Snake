@@ -26,5 +26,5 @@ The controls for player 1 are the WASD keys. The controls for player 2 are the a
 - N/A
 
 ## Future Work
-- Optimize code for better effeciency
+- Optimize code for better efficiency
 - Add more map variety
